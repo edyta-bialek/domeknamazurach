@@ -700,6 +700,14 @@ input, select, textarea {
 
 		}
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 /* List */
 
 	ol {
@@ -1120,7 +1128,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../img/jezioro.JPG");
-			background-size: auto, ;
+			background-size: auto;
 			background-position: center, center;
 			background-repeat: no-repeat, repeat;
 			z-index: 2;
