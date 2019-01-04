@@ -1,0 +1,174 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+-->
+<html lang="en">
+	<head>
+		<title>Holiday house Taltowisko Lake</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+			      
+	</head>
+
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="fa fa-fw fa-home 5x"></span> 
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>House by the lake - Taltowisko</h1>
+								<p>A cozy, fully equipped house for 8 people </p> 
+								<p> <b><a href="#kontakt">Book now</a></b>  <br /></p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#opis">Description</a></li>
+								<li><a href="#galeria">Galery</a></li>
+								<li><a href="#opinie">Opinions</a></li>
+								<li><a href="#kontakt">Contact</a></li>
+							
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Opis -->
+							<article id="opis">
+								<h2 class="major">Description</h2>
+
+								<p>Newly built cottage in Masuria in Skorupki Village (9 km from Mikolajki). On the ground floor there is a living room with a kitchenette and a bathroom.
+ Upstairs there are 3 double bedrooms (2 rooms with single beds / 1 room with double bed). 
+The living room has a table with chairs and a sofa bed (double bed). 
+The kitchenette is equipped with a fridge, dishwasher, induction hob, microwave, kettle and full kitchen utensils. <b> <a href="#galeria">Check galery</a> </b></p>
+
+
+<p>Payment per day 350 PLN  (min. 7 days, max. 8 people) + costs incurred during the stay as media, rubbish. 
+Payment for renting less than 7 days to be confirmed.
+Advance payment 30% should be pair after booking confirmation. Remaining amount should be paid in arrival day together with deposit 500 PLN (return on departure).
+The house will be available on the day of arrival from 16 o'clock. On the day of departure, please leave the house by 12 o'clock</p>
+
+
+<p>If you are looking for peace and quiet surrounded by nature this is the place for you. 
+The house is located on the edge of the forest, 250 m from Lake Tałtowisko. At the lake there is a public beach, marina and tavern (possibility of meals). There is a possibility of cruising on the Masurian lakes for an additional fee. The area invites to hiking and biking tours. While getting into the car, you can see: </p>
+<ul>
+<li> Ryn Castle, </li>
+<li> Farm in Kosewo,</li>
+<li> Tarpan reserve in Popielno,</li>
+<li> In Pranie - museum,</li>
+<li> in Gizycko: church from XIX century, Swing bridge, Boyen Fortress,</li>
+<li> Owczarnia – Masurian Museum,</li>
+<li> Wolf's Lair,</li>
+<li> Ketrzyn: castle from XIV, church from XIV century, </li>
+<li> Swieta Lipka - Sanctuary of St. Mary,</li>
+<li> Castle from XV in Reszl,</li>
+<li> A baroque palace and park complex in Sztynort,</li>
+<li> The Masurian Canal and several meters long locks in Guja and Lesniew </li>
+<li> in Mamerki Headquarters of the Land Forces Command (OKH),</li>
+<li> in Pozezdrze Himmler’s field office,</li>
+<li> The tomb of the Farenheid family in the shape of a pyramid in Rapa,</li>
+<li> European bison in Wolisko,</li>
+<li> Paprotki - excavations of a fortified settlement and the Galindian cemetery from thousand years ago </li>
+<li> Sailing Village in Mikolajki,</li>
+<li> Luknajno reserve, </li>
+<li> Krutyn – kayaking ,</li>
+<li> in Wojnow monastery complex of Old Believers - Filipons from XIX century,</li>
+<li> Kadzidlowo – animal reserve.</li>
+</ul>
+
+
+							</article>
+
+						<!-- Galeria -->
+							<article id="galeria">
+								<h2 class="major">Galery</h2>
+
+
+<div class="galery">
+<img src="img/front3.JPG" alt="Domek" class="center" style="width:75%">
+<img src="img/front2.JPG" alt="Domek" class="center" style="width:75%">
+	<img src="img/big/front.JPG" alt="Domek" class="center" style="width:60%"> 
+<img src="img/salon.JPG" alt="Salon" class="center" style="width:75%">
+<img src="img/kuchnia.JPG" alt="Kuchnia" class="center" style="width:75%">
+	<img src="img/big/2.kuchnia.JPG" alt="Kuchnia" class="center" style="width:60%">
+	<img src="img/big/2.JPG" alt="Wnętrze" class="center" style="width:60%">
+<img src="img/podwojnelozko.JPG" class="center" alt="Podwójne łóżko" style="width:75%"> 
+	<img src="img/big/pokoje.JPG" alt="Pokoje" class="center" style="width:60%">
+	<img src="img/big/2.pokoje.JPG" alt="Pokoje" class="center" style="width:60%">
+	<img src="img/big/prysznic.JPG" alt="Prysznic" class="center" style="width:60%">
+<img src="img/2.JPG" alt="Stół" class="center" style="width:75%">
+<img src="img/7.JPG" alt="Stół" class="center" style="width:75%">
+<img src="img/3.JPG" alt="Leżak" class="center" style="width:75%">
+	<img src="img/big/lezak.JPG" alt="Leżak" class="center" style="width:60%">
+<img src="img/ogrod.jpg" alt="Ogród" class="center" style="width:75%">
+<img src="img/ogrod2.JPG" alt="Ogród" class="center" style="width:75%">
+<img src="img/1.JPG" alt="Okolica" class="center" style="width:75%">
+<img src="img/6.JPG" alt="Okolica" class="center" style="width:75%">
+<img src="img/4.JPG" alt="Droga" class="center" style="width:75%">
+<img src="img/5.JPG" alt="Droga" class="center" style="width:75%">
+	<img src="img/big/droga.JPG" alt="Droga" class="center" style="width:60%">
+<img src="img/jezioro.JPG" alt="Jezioro" class="center" style="width:75%">
+	<img src="img/big/jezioro2.JPG" alt="Jezioro" class="center" style="width:60%">
+</div>
+
+	</article>
+
+						<!-- Opinie -->
+							<article id="opinie">
+								<h2 class="major">Opinions</h2>
+								<span class="image main"><img src="images/sunset.jpg" alt="" /></span>
+								<p>"Wspniale miejsce dla kogoś kto chce odpocząć od cywilizacji, cisza, spokój, natura, Janek z pstrągami, cichy port, spokojne i duże jezioro, można zdecydowanie odpocząć. Sam domek bardzo fajnie urządzony, klimatowi. Polecam wszystkim!!!"</p>
+								<p>"Niesamowite miejsce dla kogoś, kto chce odpocząć od miasta, hałasu i tłumu. Domek w spokojnej okolicy. Bardzo blisko małego portu, gdzie można coś zjeść, wykąpać się i poplażować. Z dodatkowych atrakcji dla dzieci był jeden dmuchaniec :) "</p>
+								<p>"Super miejsce. Gorąco polecam!!"</p>
+							</article>
+
+						<!-- Kontakt -->
+							<article id="Contact">
+								<h2 class="major">Kontakt</h2>
+								<p><b> Tel.: (+48) 502 738 840 </b>  </p>
+								<p><b> Email:   kingawesolowska@onet.eu </b> </p> 
+
+					
+							</article>
+					</div>
+
+				<!-- Footer -->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d15573.400179372193!2d21.53411981289763!3d53.881937187244574!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae70831f47b437a7!2sDomek+nad+Ta%C5%82towiskiem!5e1!3m2!1sen!2sus!4v1546444245093" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+
+
+					<footer id="footer">
+						<p class="copyright">&copy; 2019 Copyright All rights reserved | <a href="http://www.onixblancus.com">Onix Blancus</a></p>
+						
+					</footer>
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+
+
+
+
+	</body>
+</html>
